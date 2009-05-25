@@ -1,7 +1,7 @@
 %%% File    : growl.erl
 %%% Author  : Sébastien Arnaud <arnaudsj@gmail.com>
 %%% Description : 
-%%% First Created : 27 Jan 2009 by Sébastien Arnaud <arnaudsj@gmail.com>
+%%% First Created : May 25th 2009 by Sébastien Arnaud <arnaudsj@gmail.com>
 
 -module(growl).
 
